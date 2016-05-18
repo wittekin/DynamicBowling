@@ -1,5 +1,5 @@
 # DynamicBowling
-A simle bowling score calculator that accommodates house rules.
+A simple bowling score calculator that accommodates house rules.
 ----------------------
 
 ##### Usage instructions:
